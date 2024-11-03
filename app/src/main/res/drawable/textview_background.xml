@@ -1,0 +1,13 @@
+<!-- res/drawable/textview_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Cor de fundo e transparência -->
+    <solid android:color="#80F8EF00" /> <!-- Fundo amarelo com 50% de transparência -->
+
+    <!-- Configuração da borda -->
+    <stroke
+        android:width="2dp"
+        android:color="#000000" /> <!-- Cor e espessura da borda -->
+
+    <!-- Cantos arredondados (opcional) -->
+    <corners android:radius="8dp" />
+</shape>

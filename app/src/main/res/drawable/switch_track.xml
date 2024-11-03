@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#F8EF00" android:state_checked="true"/> <!-- Cor ativada -->
+    <item android:color="#FFC0C0C0"/> <!-- Cor desativada -->
+</selector>

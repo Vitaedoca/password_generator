@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#F8EF00" android:state_checked="true"/> <!-- Cor do polegar ativado -->
+    <item android:color="#FFAAAAAA"/> <!-- Cor do polegar desativado -->
+</selector>
